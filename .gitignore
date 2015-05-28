@@ -24,3 +24,6 @@ DerivedData
 
 # CocoaPods
 Example/Pods
+
+# Carthage
+Carthage/
