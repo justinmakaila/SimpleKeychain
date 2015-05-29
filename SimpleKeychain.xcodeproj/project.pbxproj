@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7C6C38E11B176E2F009F8A6F /* A0SimpleKeychain.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6C38DD1B176E2F009F8A6F /* A0SimpleKeychain.h */; };
+		7C6C38E11B176E2F009F8A6F /* A0SimpleKeychain.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6C38DD1B176E2F009F8A6F /* A0SimpleKeychain.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C6C38E21B176E2F009F8A6F /* A0SimpleKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6C38DE1B176E2F009F8A6F /* A0SimpleKeychain.m */; };
-		7C6C38E31B176E2F009F8A6F /* A0SimpleKeychain+KeyPair.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6C38DF1B176E2F009F8A6F /* A0SimpleKeychain+KeyPair.h */; };
+		7C6C38E31B176E2F009F8A6F /* A0SimpleKeychain+KeyPair.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6C38DF1B176E2F009F8A6F /* A0SimpleKeychain+KeyPair.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7C6C38E41B176E2F009F8A6F /* A0SimpleKeychain+KeyPair.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C6C38E01B176E2F009F8A6F /* A0SimpleKeychain+KeyPair.m */; };
-		7C6C38E61B176E42009F8A6F /* SimpleKeychain.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6C38E51B176E42009F8A6F /* SimpleKeychain.h */; };
+		7C6C38E61B176E42009F8A6F /* SimpleKeychain.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C6C38E51B176E42009F8A6F /* SimpleKeychain.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
